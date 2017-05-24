@@ -11,3 +11,4 @@ It is a one-liner that:
 The proxy is meant for didactic purposes only.
 It is a simple example of a test-driven development made with JUnit4, Netbeans, Maven, git and GitHub, and proper minimal documentation (README and javadoc).
 
+See javadoc and tests for further information.
